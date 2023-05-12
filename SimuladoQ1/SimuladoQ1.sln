@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimuladoQ1", "SimuladoQ1\SimuladoQ1.csproj", "{53B76E3D-0502-494D-8469-D95285FA4263}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53B76E3D-0502-494D-8469-D95285FA4263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B76E3D-0502-494D-8469-D95285FA4263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B76E3D-0502-494D-8469-D95285FA4263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B76E3D-0502-494D-8469-D95285FA4263}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4A7BDBF-C446-4797-B202-27E54B18B9D3}
+	EndGlobalSection
+EndGlobal

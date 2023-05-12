@@ -1,0 +1,8 @@
+C:\Users\Bernardo Chiamolera\source\repos\SimuladoQ2\SimuladoQ2\bin\Debug\SimuladoQ2.exe.config
+C:\Users\Bernardo Chiamolera\source\repos\SimuladoQ2\SimuladoQ2\bin\Debug\SimuladoQ2.exe
+C:\Users\Bernardo Chiamolera\source\repos\SimuladoQ2\SimuladoQ2\bin\Debug\SimuladoQ2.pdb
+C:\Users\Bernardo Chiamolera\source\repos\SimuladoQ2\SimuladoQ2\obj\Debug\SimuladoQ2.csproj.AssemblyReference.cache
+C:\Users\Bernardo Chiamolera\source\repos\SimuladoQ2\SimuladoQ2\obj\Debug\SimuladoQ2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bernardo Chiamolera\source\repos\SimuladoQ2\SimuladoQ2\obj\Debug\SimuladoQ2.csproj.CoreCompileInputs.cache
+C:\Users\Bernardo Chiamolera\source\repos\SimuladoQ2\SimuladoQ2\obj\Debug\SimuladoQ2.exe
+C:\Users\Bernardo Chiamolera\source\repos\SimuladoQ2\SimuladoQ2\obj\Debug\SimuladoQ2.pdb
